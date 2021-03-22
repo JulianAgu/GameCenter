@@ -30,6 +30,7 @@
   background-image: url("../images/index.jpg");
   background-size: cover;
   padding-bottom: 400px;
+  position: absolute;
 }
 
 .indexTitle {

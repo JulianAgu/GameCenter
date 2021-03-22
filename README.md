@@ -1,6 +1,6 @@
 ##  Game center
 
-** Resumen**
+**Resumen**
 
 Entrega final del proyecto para el curso de programacion en JS de CoderHouse sobre un  e-commerce.
 En este caso cree una pagina web sobre una tienda online de venta de videojuegos de PlayStation 4.
