@@ -5,13 +5,11 @@
 .bodyIndex {
   background-image: url("../images/index.jpg");
   background-size: cover;
-  padding-bottom: 400px;
   position: absolute;
-}
-
-.indexTitle {
-  padding-top: 250px;
-  padding-bottom: 50px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .indexText {
