@@ -4,8 +4,11 @@
 .bodyIndex{
     background-image: url("../images/index.jpg");
     background-size: cover;
-    padding-bottom: 400px;
     position: absolute;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 

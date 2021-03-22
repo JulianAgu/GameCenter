@@ -1,0 +1,38 @@
+.indexTitle {
+  font-size: 4rem;
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  letter-spacing: 0.2px;
+  line-height: 38px;
+}
+
+.indexText {
+  font-family: "DM Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.4rem;
+  line-height: 17px;
+}
+
+.textCategory {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+}
+
+.textButton {
+  font-family: "DM Sans", sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+}
+
+.itemTitle {
+  font-size: 1.5rem;
+}
+
+/*# sourceMappingURL=fonts.css.map */

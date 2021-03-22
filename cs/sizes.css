@@ -1,0 +1,92 @@
+.buttonBuy {
+  padding-top: 15px !important;
+}
+
+.bodyIndex {
+  background-image: url("../images/index.jpg");
+  background-size: cover;
+  position: absolute;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.indexTitle {
+  padding-top: 250px;
+  padding-bottom: 50px;
+}
+
+.indexText {
+  padding-bottom: 40px;
+}
+
+.itemImage {
+  width: 18vh;
+}
+
+.item {
+  border-radius: 5px;
+  background-color: white;
+  margin-top: 40px;
+  margin: auto;
+}
+
+.addToPurchase {
+  width: 2.5vh;
+  display: block;
+  margin: auto;
+  cursor: pointer;
+}
+
+.itemsNav {
+  width: 2.9vh;
+  margin: auto;
+  cursor: pointer;
+}
+
+body {
+  background-color: #fafafa !important;
+}
+
+.shopping-cart-items {
+  padding: 20px 0px;
+}
+
+.shopping-cart-header {
+  border-bottom: 1px solid #ccc;
+}
+
+.shopping-cart-image {
+  max-width: 80px;
+  border-radius: 20px;
+}
+
+.shopping-cart-quantity-input {
+  max-width: 45px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: #eee;
+  padding: 5px;
+}
+
+.shopping-cart-total {
+  min-height: 96px;
+}
+
+.imgRpgGames {
+  width: 93px;
+  height: 96px;
+}
+
+.imgFightGames {
+  width: 81px;
+  height: 84px;
+}
+
+.imgSportGames {
+  width: 95px;
+  height: 60px;
+}
+
+/*# sourceMappingURL=sizes.css.map */
