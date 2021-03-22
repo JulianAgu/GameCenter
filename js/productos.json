@@ -1,0 +1,18 @@
+{"productos" : [{
+    "producto": "Fifa 21",
+    "precio": 4000,
+    "id": 1
+}, {
+    "producto": "UFC 3",
+    "precio": 2000,
+    "id": 2
+}, {
+    "producto": "Diablo 3",
+    "precio": 890,
+    "id": 3
+}, {
+    "producto": "Injustice 2 Legendary Edition",
+    "precio": 2500,
+    "id": 5
+}]
+}

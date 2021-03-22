@@ -1,0 +1,28 @@
+// Variables
+
+$titles: rgb(245, 16, 16);
+$navColor: rgb(10, 8, 153);
+
+.indexTitle{
+    color: $titles;
+}
+.indexText{
+    color: rgb(228, 15, 15)
+}
+
+.buttonBuy{
+    background-color: $navColor !important;
+
+}
+
+.textButton{
+    color: white;
+}
+
+.navBackground{
+    background-color: $navColor;
+}
+
+.btnCar{
+    background-color: white !important;
+}

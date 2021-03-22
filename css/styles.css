@@ -1,0 +1,149 @@
+.indexTitle {
+  color: #f51010;
+}
+
+.indexText {
+  color: #e40f0f;
+}
+
+.buttonBuy {
+  background-color: #0a0899 !important;
+}
+
+.textButton {
+  color: white;
+}
+
+.navBackground {
+  background-color: #0a0899;
+}
+
+.btnCar {
+  background-color: white !important;
+}
+
+.buttonBuy {
+  padding-top: 15px !important;
+}
+
+.bodyIndex {
+  background-image: url("../images/index.jpg");
+  background-size: cover;
+  padding-bottom: 400px;
+}
+
+.indexTitle {
+  padding-top: 250px;
+  padding-bottom: 50px;
+}
+
+.indexText {
+  padding-bottom: 40px;
+}
+
+.itemImage {
+  width: 18vh;
+}
+
+.item {
+  border-radius: 5px;
+  background-color: white;
+  margin-top: 40px;
+  margin: auto;
+}
+
+.addToPurchase {
+  width: 2.5vh;
+  display: block;
+  margin: auto;
+  cursor: pointer;
+}
+
+.itemsNav {
+  width: 2.9vh;
+  margin: auto;
+  cursor: pointer;
+}
+
+body {
+  background-color: #fafafa !important;
+}
+
+.shopping-cart-items {
+  padding: 20px 0px;
+}
+
+.shopping-cart-header {
+  border-bottom: 1px solid #ccc;
+}
+
+.shopping-cart-image {
+  max-width: 80px;
+  border-radius: 20px;
+}
+
+.shopping-cart-quantity-input {
+  max-width: 45px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: #eee;
+  padding: 5px;
+}
+
+.shopping-cart-total {
+  min-height: 96px;
+}
+
+.imgRpgGames {
+  width: 93px;
+  height: 96px;
+}
+
+.imgFightGames {
+  width: 81px;
+  height: 84px;
+}
+
+.imgSportGames {
+  width: 95px;
+  height: 60px;
+}
+
+.indexTitle {
+  font-size: 4rem;
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  letter-spacing: 0.2px;
+  line-height: 38px;
+}
+
+.indexText {
+  font-family: "DM Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.4rem;
+  line-height: 17px;
+}
+
+.textCategory {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+}
+
+.textButton {
+  font-family: "DM Sans", sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+}
+
+.itemTitle {
+  font-size: 1.5rem;
+}
+
+/*# sourceMappingURL=styles.css.map */
